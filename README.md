@@ -1,4 +1,4 @@
-<h1>Trial</h1>
-Hello there i'm Aditya and this is my first git reposetery.
-<br>
-Author - ADITYA
+<h1>Hello everyone </h1>
+<h2>Full stack web developer.</h2>
+
+
